@@ -16,3 +16,18 @@ p {
   width: 1500px;
   /* height: 35px; */
 }
+
+.Musk {
+  width: 270px;
+  height: 400px;
+}
+
+.snail {
+  width: 600px;
+  height: 400px;
+}
+
+a {
+  font-size: 30px;
+  color: red;
+}
